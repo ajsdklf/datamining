@@ -1,0 +1,6 @@
+llama_index
+numpy
+pandas
+openai 
+os
+python-dotenv
